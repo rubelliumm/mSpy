@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "480889781147",
+    "firebase_url": "https://rubelliumm-mspy-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "rubelliumm-mspy",
+    "storage_bucket": "rubelliumm-mspy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480889781147:android:be7ab021f3f73181de3f3e",
+        "android_client_info": {
+          "package_name": "com.example.mspy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480889781147-29mt01bmrn00s1tfmtnd58v6bdgq01vc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz7FChOt_e815hcHGLueB2QWgQttnW-5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480889781147-29mt01bmrn00s1tfmtnd58v6bdgq01vc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
